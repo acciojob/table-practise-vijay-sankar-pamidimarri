@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+body {
+    text-align: center;
+}
+
+h1#h1 {
+    font-weight: bold;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+table td, table th {
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
